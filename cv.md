@@ -25,3 +25,11 @@ Mobilunity ( https://mobilunity.com/ )
 - Working closely with developers and ensure the quality of development is of highest standard;
 - Communicating significant issues during quality assurance activities and providing recommended improvements to development team using Scrum and Kanban methodologies;
 - Providing daily/weekly reports to managers and team members.
+
+Education
+====
+Kiev National University of Trade and Economics (Kiev)
+End date 2011
+
+Kiev National Economic University named after Vadim Hetman  (Kiev)
+End date 2017
