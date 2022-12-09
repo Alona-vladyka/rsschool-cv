@@ -1,3 +1,7 @@
 Vladyka Alona
 ====
-Location: Kiev	 
+Location: Kiev	
+
+Objective:
+====
+Obtain a position of quality assurance engineer.
